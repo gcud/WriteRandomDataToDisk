@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "随机向磁盘写数据", "随机向磁盘写数据.csproj", "{204DAA3C-D1F8-4B04-ACBE-B4D38362104C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204DAA3C-D1F8-4B04-ACBE-B4D38362104C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204DAA3C-D1F8-4B04-ACBE-B4D38362104C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204DAA3C-D1F8-4B04-ACBE-B4D38362104C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204DAA3C-D1F8-4B04-ACBE-B4D38362104C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90BB65DF-F56C-499E-8A53-F45443B5AF1D}
+	EndGlobalSection
+EndGlobal
